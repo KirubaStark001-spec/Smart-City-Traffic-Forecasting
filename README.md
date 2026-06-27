@@ -201,3 +201,12 @@ This project is developed for educational and internship purposes.
 ## ⭐ Acknowledgement
 
 Thanks to the open-source Python community and the developers of Pandas, Scikit-learn, Streamlit, Matplotlib, and Seaborn for providing excellent libraries that made this project possible.
+
+Note:
+The trained model (traffic_model.pkl) is not included in this repository because of GitHub file size limitations.
+
+To generate the model:
+1. Download the dataset.
+2. Run traffic_prediction.py.
+3. The script will automatically create traffic_model.pkl.
+4. Run app.py using Streamlit.
